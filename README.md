@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## How to launch this application
 
-Use this link: https://react-practice-movieapp.netlify.app/
+Use this link: https://react-practice-calculator.netlify.app/
 
 or you can host is locally following the steps below.
 
