@@ -2,6 +2,24 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## How to launch this application
+
+Use this link: https://react-practice-movieapp.netlify.app/
+
+or you can host is locally following the steps below.
+
+First you need to clone this repository on your device 
+
+Then, CD to the directory where you cloned the project and in the terminal, type:
+
+### `npm install`
+
+This will automatically install all the dependencies.
+
+To Start/Run the application, in the terminal, type:
+
+### `npm start`
+
 ## Available Scripts
 
 In the project directory, you can run:
